@@ -4,7 +4,7 @@
 			font-family: courier;
 		}
 		body{
-			background-image:url(../static/img/landscape.jpg);
+			/*background-image:url(../static/img/landscape.jpg);*/
 		}
 		.helptext{
 			display: none;
